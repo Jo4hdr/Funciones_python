@@ -1,4 +1,4 @@
-#Construir una funcion que recita como parametro una lista de datos numericos y retome la suma de dichos datos
+#Construir una funcion que reciba como parametro una lista de datos numericos y retome la suma de dichos datos.
 
 import random
 

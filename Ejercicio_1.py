@@ -1,4 +1,4 @@
-
+#Construir una funcion que recibe su nombre como parametro y que lo muestre 5 veces en la pantalla
 
 print("------------------------------")
 print("- MOSTRAR NOMBRE EN PANTALLA -")
